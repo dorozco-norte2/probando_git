@@ -8,3 +8,4 @@
 * Ana
 * Diego
 * Daladier
+* Jose
